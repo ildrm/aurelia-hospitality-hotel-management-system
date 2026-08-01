@@ -1,4 +1,4 @@
-# Aurelia Hospitality OS
+# Aurelia Hospitality
 
 A transaction-focused hotel management system covering reservations, front desk, room and bed products, board basis, revenue rules, affiliate channels, housekeeping, perpetual inventory, accounting, guest CRM, and bookable ancillary and recreational services.
 
